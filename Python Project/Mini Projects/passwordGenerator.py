@@ -45,4 +45,4 @@ hasSpecial = input('Do you want special character (y/n)? ').lower() == 'y'
 
 
 pwd = generatePassword(miniLength, hasNumber, hasSpecial)
-print(pwd) 
+print(pwd)
